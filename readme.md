@@ -1,8 +1,8 @@
-<p align="center"><h1>Laracommerce</h1></p>
+<h1 align="center">Laracommerce</h1>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="#"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
@@ -12,7 +12,7 @@ Laracommerce is an e-commerce application that builts on top of Laravel-Vue. Fee
 
 ## Author
 
-If you discover a security vulnerability within Laracommerce, please send an e-mail to Sandeep via [ksandeeptech07.com](mailto:ksandeeptech07.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laracommerce, please send an e-mail to Sandeep via [ksandeeptech07@gmail.com](mailto:ksandeeptech07@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
